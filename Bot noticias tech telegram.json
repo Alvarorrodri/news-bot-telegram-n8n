@@ -80,7 +80,7 @@
       "credentials": {
         "telegramApi": {
           "id": "SQGuC8jYZnCwN1xc",
-          "name": "Telegram account"
+          "name": "Bot-telegram-noticias-tech"
         }
       }
     },
@@ -100,7 +100,7 @@
       "credentials": {
         "groqApi": {
           "id": "R795rmK8P2hfpgtE",
-          "name": "Groq account 2"
+          "name": "Noticias-tech-bot"
         }
       }
     }
@@ -163,12 +163,12 @@
       ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "de84c621-97a0-4805-83c3-dfca02f4d116",
+  "versionId": "2934a2f4-6e78-4dba-9f18-8349e19adea1",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "179ae48f3a8eddbf16613c47cc06a99e50667fd869a49c2846bde908eb3cee72"
