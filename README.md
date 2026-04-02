@@ -28,3 +28,9 @@ de las últimas noticias de tecnología por Telegram usando IA.
 
 Álvaro Rodrigo Cantalejo  
 LinkedIn: linkedin.com/in/alvarorrodrigo
+
+
+
+<img width="1279" height="289" alt="Captura de pantalla 2026-04-02 133944" src="https://github.com/user-attachments/assets/53e6674a-2efc-4ffd-9bb7-8991041c5dc8" />
+<img width="1028" height="962" alt="Captura de pantalla 2026-04-02 134217" src="https://github.com/user-attachments/assets/b0cb9a66-92c2-4605-8d0e-65ea7451a7fd" />
+
